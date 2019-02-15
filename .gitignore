@@ -1,0 +1,4 @@
+sdk_components
+external/nano-pb
+external/segger_rtt
+external/sdk13/external/micro-ecc/micro-ecc/
